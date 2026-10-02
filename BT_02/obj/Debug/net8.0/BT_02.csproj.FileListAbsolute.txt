@@ -1,0 +1,14 @@
+M:\TranTuanKiet\BT_02\bin\Debug\net8.0\BT_02.exe
+M:\TranTuanKiet\BT_02\bin\Debug\net8.0\BT_02.deps.json
+M:\TranTuanKiet\BT_02\bin\Debug\net8.0\BT_02.runtimeconfig.json
+M:\TranTuanKiet\BT_02\bin\Debug\net8.0\BT_02.dll
+M:\TranTuanKiet\BT_02\bin\Debug\net8.0\BT_02.pdb
+M:\TranTuanKiet\BT_02\obj\Debug\net8.0\BT_02.GeneratedMSBuildEditorConfig.editorconfig
+M:\TranTuanKiet\BT_02\obj\Debug\net8.0\BT_02.AssemblyInfoInputs.cache
+M:\TranTuanKiet\BT_02\obj\Debug\net8.0\BT_02.AssemblyInfo.cs
+M:\TranTuanKiet\BT_02\obj\Debug\net8.0\BT_02.csproj.CoreCompileInputs.cache
+M:\TranTuanKiet\BT_02\obj\Debug\net8.0\BT_02.dll
+M:\TranTuanKiet\BT_02\obj\Debug\net8.0\refint\BT_02.dll
+M:\TranTuanKiet\BT_02\obj\Debug\net8.0\BT_02.pdb
+M:\TranTuanKiet\BT_02\obj\Debug\net8.0\BT_02.genruntimeconfig.cache
+M:\TranTuanKiet\BT_02\obj\Debug\net8.0\ref\BT_02.dll
