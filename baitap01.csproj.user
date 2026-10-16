@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThemKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTraCuu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
