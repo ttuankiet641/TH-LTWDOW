@@ -1,0 +1,16 @@
+M:\B03BT3\bin\Debug\net8.0-windows\B03BT3.exe
+M:\B03BT3\bin\Debug\net8.0-windows\B03BT3.deps.json
+M:\B03BT3\bin\Debug\net8.0-windows\B03BT3.runtimeconfig.json
+M:\B03BT3\bin\Debug\net8.0-windows\B03BT3.dll
+M:\B03BT3\bin\Debug\net8.0-windows\B03BT3.pdb
+M:\B03BT3\obj\Debug\net8.0-windows\B03BT3.Form1.resources
+M:\B03BT3\obj\Debug\net8.0-windows\B03BT3.csproj.GenerateResource.cache
+M:\B03BT3\obj\Debug\net8.0-windows\B03BT3.GeneratedMSBuildEditorConfig.editorconfig
+M:\B03BT3\obj\Debug\net8.0-windows\B03BT3.AssemblyInfoInputs.cache
+M:\B03BT3\obj\Debug\net8.0-windows\B03BT3.AssemblyInfo.cs
+M:\B03BT3\obj\Debug\net8.0-windows\B03BT3.csproj.CoreCompileInputs.cache
+M:\B03BT3\obj\Debug\net8.0-windows\B03BT3.dll
+M:\B03BT3\obj\Debug\net8.0-windows\refint\B03BT3.dll
+M:\B03BT3\obj\Debug\net8.0-windows\B03BT3.pdb
+M:\B03BT3\obj\Debug\net8.0-windows\B03BT3.genruntimeconfig.cache
+M:\B03BT3\obj\Debug\net8.0-windows\ref\B03BT3.dll
