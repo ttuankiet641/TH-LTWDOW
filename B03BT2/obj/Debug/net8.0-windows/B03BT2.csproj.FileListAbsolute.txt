@@ -1,0 +1,17 @@
+M:\B03BT2\bin\Debug\net8.0-windows\B03BT2.exe
+M:\B03BT2\bin\Debug\net8.0-windows\B03BT2.deps.json
+M:\B03BT2\bin\Debug\net8.0-windows\B03BT2.runtimeconfig.json
+M:\B03BT2\bin\Debug\net8.0-windows\B03BT2.dll
+M:\B03BT2\bin\Debug\net8.0-windows\B03BT2.pdb
+M:\B03BT2\obj\Debug\net8.0-windows\B03BT2.csproj.GenerateResource.cache
+M:\B03BT2\obj\Debug\net8.0-windows\B03BT2.GeneratedMSBuildEditorConfig.editorconfig
+M:\B03BT2\obj\Debug\net8.0-windows\B03BT2.AssemblyInfoInputs.cache
+M:\B03BT2\obj\Debug\net8.0-windows\B03BT2.AssemblyInfo.cs
+M:\B03BT2\obj\Debug\net8.0-windows\B03BT2.csproj.CoreCompileInputs.cache
+M:\B03BT2\obj\Debug\net8.0-windows\B03BT2.dll
+M:\B03BT2\obj\Debug\net8.0-windows\refint\B03BT2.dll
+M:\B03BT2\obj\Debug\net8.0-windows\B03BT2.pdb
+M:\B03BT2\obj\Debug\net8.0-windows\B03BT2.genruntimeconfig.cache
+M:\B03BT2\obj\Debug\net8.0-windows\ref\B03BT2.dll
+M:\B03BT2\obj\Debug\net8.0-windows\B03BT2.FrmChiTiet.resources
+M:\B03BT2\obj\Debug\net8.0-windows\B03BT2.FrmDanhSachSinhVien.resources
